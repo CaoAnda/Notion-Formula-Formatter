@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Notion Formula Renderer",
+    "name": "Notion Formula Formatter",
     "version": "1.0",
     "description": "Convert selected formula text into Notion's renderable formula format.",
     "permissions": ["activeTab", "scripting"],

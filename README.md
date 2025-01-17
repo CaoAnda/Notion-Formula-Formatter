@@ -1,2 +1,11 @@
-# my_chrome_extension
+# Notion Formula Formatter
  
+因为notion的公式并不支持自动渲染，同时gpt生成的公式又大多为`\( E = mc^2 \)`格式，因此编写了这个小工具，将公式转换为notion支持的格式。
+ 
+## 安装
+
+将本仓库下载到本地并解压，然后打开[chrome的扩展程序页面](chrome://extensions/)，勾选开发者模式，点击`加载已解压的扩展程序`，选择本仓库解压后的文件夹。
+
+## 使用方法
+
+将光标移动到需要转换的段落，然后按下快捷键`Ctrl+Shift+Q`即可。
